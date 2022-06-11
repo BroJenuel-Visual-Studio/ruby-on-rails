@@ -2,12 +2,12 @@
     "name": "ruby-on-rails-misterjdevpack",
     "displayName": "Ruby on Rails MisterJDevPack",
     "description": "This is an extentiosn that is used for developing in ruby on rails pack that I made for my self and you can use it too.",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "publisher": "MisterJ",
     "icon": "images/icon.png",
     "repository": {
         "type": "git",
-        "url": "https://github.com/BroJenuel/CodeExtensionPack.git"
+        "url": "https://github.com/BroJenuel/ruby-on-rails.git"
     },
     "engines": {
         "vscode": "^1.48.0"
