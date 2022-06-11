@@ -1,5 +1,7 @@
 # Ruby ON Rails MisterJPack Change Log
 
+## [1.0.1]
+- change repo
 
 ## Released
 ## [1.0.0]  -  2022 March 19
