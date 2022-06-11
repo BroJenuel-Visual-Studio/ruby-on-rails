@@ -1,0 +1,32 @@
+{
+    "name": "ruby-on-rails-misterjdevpack",
+    "displayName": "Ruby on Rails MisterJDevPack",
+    "description": "This is an extentiosn that is used for developing in ruby on rails pack that I made for my self and you can use it too.",
+    "version": "1.0.0",
+    "publisher": "MisterJ",
+    "icon": "images/icon.png",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/BroJenuel/CodeExtensionPack.git"
+    },
+    "engines": {
+        "vscode": "^1.48.0"
+    },
+    "scripts": {
+        "package": "vsce package",
+        "publish": "vsce publish"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [
+        "bung87.rails",
+        "rebornix.ruby",
+        "hridoy.rails-snippets",
+        "castwide.solargraph",
+        "sianglim.slim",
+        "wingrunr21.vscode-ruby",
+        "bung87.vscode-gemfile",
+        "kaiwood.endwise"
+    ]
+}
